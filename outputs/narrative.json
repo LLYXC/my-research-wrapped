@@ -54,7 +54,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of integrating multiparametric MRI data for breast cancer diagnosis, which has been limited by reliance on single sequences in AI studies. The authors introduce a large mixture-of-modality-experts model (MOME) that effectively combines multiple MRI modalities, achieving an AUROC of 0.913 and significantly reducing unnecessary biopsies for BI-RADS 4 patients. The model demonstrates comparable performance to experienced radiologists, highlighting its potential for personalized breast cancer management.",
+          "summary": "This paper addresses the challenge of integrating multiparametric MRI data for breast cancer diagnosis, which has been limited by reliance on single sequences in AI studies. We introduce a large mixture-of-modality-experts model (MOME) that effectively combines multiple MRI modalities, achieving an AUROC of 0.913 and significantly reducing unnecessary biopsies for BI-RADS 4 patients. The model demonstrates comparable performance to experienced radiologists, highlighting its potential for personalized breast cancer management.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model.pdf"
@@ -180,7 +180,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenges of applying masked autoencoders (MAE) to volumetric medical images, specifically the lack of global context and instability in learned representations. The authors propose the Global-Local Masked AutoEncoder (GL-MAE), which enhances representation learning by reconstructing both masked global and local views, leading to improved performance in volumetric medical image segmentation tasks. Empirical results demonstrate that GL-MAE outperforms state-of-the-art methods, achieving significant improvements in segmentation accuracy across multiple datasets.",
+          "summary": "This paper addresses the challenges of applying masked autoencoders (MAE) to volumetric medical images, specifically the lack of global context and instability in learned representations. We propose the Global-Local Masked AutoEncoder (GL-MAE), which enhances representation learning by reconstructing both masked global and local views, leading to improved performance in volumetric medical image segmentation tasks. Empirical results demonstrate that GL-MAE outperforms state-of-the-art methods, achieving significant improvements in segmentation accuracy across multiple datasets.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/Advancing Volumetric Medical Image Segmentation via Global-Local Masked.pdf"
@@ -205,7 +205,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenges in automated CT report generation, particularly the data imbalance and the rigid template structure of reports. The authors introduce Dia-LLaMA, a framework that utilizes LLaMA2-7B and incorporates diagnostic prompts and a disease prototype memory bank to enhance report generation. Experimental results demonstrate that Dia-LLaMA outperforms existing methods, achieving state-of-the-art performance in clinical efficacy and natural language generation metrics.",
+          "summary": "This paper addresses the challenges in automated CT report generation, particularly the data imbalance and the rigid template structure of reports. We introduce Dia-LLaMA, a framework that utilizes LLaMA2-7B and incorporates diagnostic prompts and a disease prototype memory bank to enhance report generation. Experimental results demonstrate that Dia-LLaMA outperforms existing methods, achieving state-of-the-art performance in clinical efficacy and natural language generation metrics.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/Dia-LLaMA- Towards Large Language Model-driven CT Report Generation.pdf"
@@ -281,7 +281,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of achieving explainable skin lesion diagnosis using deep learning methods, which often lack transparency. The authors propose a novel framework, MICA, that aligns medical images with clinical concepts at multiple levels (image, token, and concept levels) to enhance interpretability while maintaining high diagnostic performance. Experimental results demonstrate that MICA outperforms existing methods in concept detection and disease diagnosis across multiple datasets, achieving superior accuracy and label efficiency.",
+          "summary": "This paper addresses the challenge of achieving explainable skin lesion diagnosis using deep learning methods, which often lack transparency. We propose a novel framework, MICA, that aligns medical images with clinical concepts at multiple levels (image, token, and concept levels) to enhance interpretability while maintaining high diagnostic performance. Experimental results demonstrate that MICA outperforms existing methods in concept detection and disease diagnosis across multiple datasets, achieving superior accuracy and label efficiency.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/[AAAI 2024] MICA-Towards Explainable Skin Lesion Diagnosis via Multi-Level Image-Concept Alignment.pdf"
@@ -306,7 +306,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of explainability in prompt learning methods for medical image analysis, particularly in high-stakes healthcare scenarios. The authors propose XCoOp, a novel framework that aligns medical knowledge with learnable prompts and clinical concepts at multiple granularities, enhancing both interpretability and diagnostic performance. Empirical results demonstrate that XCoOp significantly outperforms existing methods, achieving notable improvements in diagnostic accuracy across various datasets.",
+          "summary": "This paper addresses the challenge of explainability in prompt learning methods for medical image analysis, particularly in high-stakes healthcare scenarios. We propose XCoOp, a novel framework that aligns medical knowledge with learnable prompts and clinical concepts at multiple granularities, enhancing both interpretability and diagnostic performance. Empirical results demonstrate that XCoOp significantly outperforms existing methods, achieving notable improvements in diagnostic accuracy across various datasets.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/XCoOp- Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization.pdf"
@@ -508,7 +508,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of integrating diverse data modalities in precision oncology to enhance clinical decision-making and treatment outcomes. The authors present a comprehensive review of approximately 300 studies on multimodal data integration techniques, highlighting key innovations in methodologies and their applications in cancer care. The findings indicate significant advancements in early assessment, diagnosis, prognosis, and biomarker discovery, while also identifying critical challenges and future research directions in the field.",
+          "summary": "This paper addresses the challenge of integrating diverse data modalities in precision oncology to enhance clinical decision-making and treatment outcomes. We present a comprehensive review of approximately 300 studies on multimodal data integration techniques, highlighting key innovations in methodologies and their applications in cancer care. The findings indicate significant advancements in early assessment, diagnosis, prognosis, and biomarker discovery, while also identifying critical challenges and future research directions in the field.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/Multimodal Data Integration for Precision Oncology- Challenges and Future Directions.pdf"
@@ -543,7 +543,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the problem of dataset bias in medical image classification, which can lead to inaccurate and unfair models. The authors propose a novel debiasing framework called Adaptive Agreement from a Biased Council (Ada-ABC), which learns from a biased council of classifiers without relying on explicit bias labels. Empirical results demonstrate that Ada-ABC outperforms existing methods in mitigating dataset bias across various medical imaging scenarios, achieving significant improvements in classification accuracy.",
+          "summary": "This paper addresses the problem of dataset bias in medical image classification, which can lead to inaccurate and unfair models. We propose a novel debiasing framework called Adaptive Agreement from a Biased Council (Ada-ABC), which learns from a biased council of classifiers without relying on explicit bias labels. Empirical results demonstrate that Ada-ABC outperforms existing methods in mitigating dataset bias across various medical imaging scenarios, achieving significant improvements in classification accuracy.",
           "weight": 0.85,
           "role": "primary_research",
           "file_path": "pdfs/[arxiv 2024] Medical Image Debiasing by Learning Adaptive Agreement from a Biased Council.pdf"
@@ -572,7 +572,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of learning segmentation networks from multi-source annotations in medical imaging, which often suffer from noise and bias. The authors introduce the Uncertainty-guided Multi-source Annotation Network (UMA-Net), which employs an Annotation Uncertainty Estimation Module (AUEM) and a Quality Assessment Module (QAM) to guide the training process by estimating pixel-wise and image-level uncertainties. Extensive experiments demonstrate that UMA-Net achieves state-of-the-art performance across various medical imaging datasets, effectively leveraging diverse annotations.",
+          "summary": "This paper addresses the challenge of learning segmentation networks from multi-source annotations in medical imaging, which often suffer from noise and bias. We introduce the Uncertainty-guided Multi-source Annotation Network (UMA-Net), which employs an Annotation Uncertainty Estimation Module (AUEM) and a Quality Assessment Module (QAM) to guide the training process by estimating pixel-wise and image-level uncertainties. Extensive experiments demonstrate that UMA-Net achieves state-of-the-art performance across various medical imaging datasets, effectively leveraging diverse annotations.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/Learning Robust Medical Image Segmentation from Multi-source Annotations.pdf"
@@ -593,10 +593,39 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of implementing the right to be forgotten in federated learning, particularly in medical imaging. The authors introduce a novel Federated Client Unlearning (FCU) framework that utilizes Model-Contrastive Unlearning and Frequency-Guided Memory Preservation to efficiently erase client data contributions while maintaining model performance. Empirical results demonstrate that the FCU framework achieves a 10-15 times speed-up compared to traditional retraining methods, effectively balancing efficiency and privacy.",
+          "summary": "This paper addresses the challenge of implementing the right to be forgotten in federated learning, particularly in medical imaging. We introduce a novel Federated Client Unlearning (FCU) framework that utilizes Model-Contrastive Unlearning and Frequency-Guided Memory Preservation to efficiently erase client data contributions while maintaining model performance. Empirical results demonstrate that the FCU framework achieves a 10-15 times speed-up compared to traditional retraining methods, effectively balancing efficiency and privacy.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging.pdf"
+        },
+        {
+          "title": "Deep Omni-supervised Learning for Rib Fracture Detection from Chest Radiology Images",
+          "authors": [
+            {
+              "full_name": "Zhizhong Chai",
+              "normalized_name": "Zhizhong Chai"
+            },
+            {
+              "full_name": "Luyang Luo",
+              "normalized_name": "Luyang Luo"
+            },
+            {
+              "full_name": "Huangjing Lin",
+              "normalized_name": "Huangjing Lin"
+            },
+            {
+              "full_name": "Pheng-Ann Heng",
+              "normalized_name": "Pheng-Ann Heng"
+            },
+            {
+              "full_name": "Hao Chen",
+              "normalized_name": "Hao Chen"
+            }
+          ],
+          "summary": "This paper introduces ORF-Netv2, a novel deep learning framework for detecting rib fractures that addresses the challenge of limited labeled medical data. The key innovation is an omni-supervised approach that can leverage multiple types of data: fully-labeled, weakly-labeled, and unlabeled. The framework features a multi-branch detection head and a co-training-based dynamic label assignment strategy. Testing on three rib fracture datasets (both CT and X-ray), ORF-Netv2 achieved superior performance compared to baseline methods, with mAP improvements of 3.8-5.0 points. The results demonstrate the framework's effectiveness for label-efficient medical image detection tasks.",
+          "weight": 0.9,
+          "role": "primary_research",
+          "file_path": "pdfs/Surgformer- Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition.pdf"
         },
         {
           "title": "Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images",
@@ -626,7 +655,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of lesion segmentation in medical images, particularly due to the variability in lesion sizes and low image resolutions. The authors propose a novel scale-aware super-resolution network that utilizes dual branches for both lesion mask and image super-resolution, incorporating scale-aware dilated convolution blocks to dynamically adjust receptive fields based on lesion sizes. Empirical results demonstrate significant improvements in segmentation performance across multiple datasets, achieving state-of-the-art results compared to existing methods.",
+          "summary": "This paper addresses the challenge of lesion segmentation in medical images, particularly due to the variability in lesion sizes and low image resolutions. We propose a novel scale-aware super-resolution network that utilizes dual branches for both lesion mask and image super-resolution, incorporating scale-aware dilated convolution blocks to dynamically adjust receptive fields based on lesion sizes. Empirical results demonstrate significant improvements in segmentation performance across multiple datasets, achieving state-of-the-art results compared to existing methods.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/[TNNLS 2024] Scale-aware Super-resolution Network with Dual Affinity Learning for Lesion Segmentation from Medical Images.pdf"
@@ -661,7 +690,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of fine-grained classification of whole slide images (WSIs) in precision oncology, where subtle morphological variations among cancer subtypes must be distinguished. The authors propose a novel hierarchical multi-instance learning (HMIL) framework that incorporates hierarchical label correlations and a class-wise attention mechanism to enhance the learning process. Empirical results demonstrate that HMIL achieves state-of-the-art performance on multiple datasets, significantly improving classification accuracy and sensitivity compared to existing methods.",
+          "summary": "This paper addresses the challenge of fine-grained classification of whole slide images (WSIs) in precision oncology, where subtle morphological variations among cancer subtypes must be distinguished. We propose a novel hierarchical multi-instance learning (HMIL) framework that incorporates hierarchical label correlations and a class-wise attention mechanism to enhance the learning process. Empirical results demonstrate that HMIL achieves state-of-the-art performance on multiple datasets, significantly improving classification accuracy and sensitivity compared to existing methods.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/HMIL_Hierarchical_Multi-Instance_Learning_for_Fine-Grained_Whole_Slide_Image_Classification.pdf"
@@ -702,7 +731,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of high computational costs in Whole Slide Image (WSI) classification using Multiple Instance Learning (MIL). The authors propose Iteratively Coupled Multiple Instance Learning (ICMIL), which iteratively couples a bag-level classifier with a patch embedder to improve classification accuracy. Empirical results demonstrate that ICMIL significantly enhances the performance of existing MIL methods, achieving state-of-the-art results across multiple datasets.",
+          "summary": "This paper addresses the challenge of high computational costs in Whole Slide Image (WSI) classification using Multiple Instance Learning (MIL). We propose Iteratively Coupled Multiple Instance Learning (ICMIL), which iteratively couples a bag-level classifier with a patch embedder to improve classification accuracy. Empirical results demonstrate that ICMIL significantly enhances the performance of existing MIL methods, achieving state-of-the-art results across multiple datasets.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/[TMI 2024] Rethinking Multiple Instance Learning for Whole Slide Image Classification- A Bag-Level Classifier is a Good Instance-Level Teacher.pdf"
@@ -735,7 +764,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the challenge of efficiently adapting image-level pre-trained models for fine-grained surgical phase recognition, which is hindered by limited video data and the need for robust spatial-temporal modeling. The authors introduce a novel framework, SurgPETL, which incorporates a Spatial-Temporal Adaptation (STA) module to enhance feature extraction across spatial and temporal dimensions. Extensive experiments demonstrate that SurgPETL-STA outperforms existing methods while maintaining parameter efficiency, achieving significant improvements in accuracy across multiple surgical datasets.",
+          "summary": "This paper addresses the challenge of efficiently adapting image-level pre-trained models for fine-grained surgical phase recognition, which is hindered by limited video data and the need for robust spatial-temporal modeling. We introduce a novel framework, SurgPETL, which incorporates a Spatial-Temporal Adaptation (STA) module to enhance feature extraction across spatial and temporal dimensions. Extensive experiments demonstrate that SurgPETL-STA outperforms existing methods while maintaining parameter efficiency, achieving significant improvements in accuracy across multiple surgical datasets.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/SurgPETL- Parameter-Efficient Image-to-Surgical-Video Transfer Learning for Surgical Phase Recognition.pdf"
@@ -760,7 +789,7 @@
               "normalized_name": "Hao Chen"
             }
           ],
-          "summary": "This paper addresses the limitations of existing surgical phase recognition methods, which struggle with spatial-temporal dependency and redundancy. The authors introduce the Surgical Transformer (Surgformer), which utilizes a novel Hierarchical Temporal Attention (HTA) mechanism to effectively capture both global and local information across varying temporal resolutions. Empirical results demonstrate that Surgformer outperforms state-of-the-art methods on benchmark datasets, achieving significant improvements in accuracy and F1 scores.",
+          "summary": "This paper addresses the limitations of existing surgical phase recognition methods, which struggle with spatial-temporal dependency and redundancy. We introduce the Surgical Transformer (Surgformer), which utilizes a novel Hierarchical Temporal Attention (HTA) mechanism to effectively capture both global and local information across varying temporal resolutions. Empirical results demonstrate that Surgformer outperforms state-of-the-art methods on benchmark datasets, achieving significant improvements in accuracy and F1 scores.",
           "weight": 0.9,
           "role": "primary_research",
           "file_path": "pdfs/Surgformer- Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition.pdf"
