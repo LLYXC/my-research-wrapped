@@ -21,5 +21,6 @@ __pycache__
 *.pyc
 *.config.js
 *.tsbuildinfo
+*venv*
 
 dist/
